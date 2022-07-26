@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 |Cohort|Course|
 |---|---|
 |**Fall 2021**|*CPS-500 Intro to Programming and Data Structures*|
-|**Winter 2022**|*CPS-500 Computer Organizatoin and OS Design*|
+|**Winter 2022**|*CPS-500 Computer Organization and Operating System Design*|
 |**Spring 2022**|*CIS-675 Design and Analysis of Algorithms*|
 |**Summer 2022**|*CSE-644 Internet Security*|
