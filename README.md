@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 |Cohort|Course|
 |---|---|
-|**Fall 2021**|(*CPS-500 Intro to Programming and Data Structures*)[https://github.com/radioxeth/cse-644-internet-security]|
-|**Winter 2022**|(*CPS-500 Computer Organization and Operating System Design*)[https://github.com/radioxeth/cis-675-algorithms]|
-|**Spring 2022**|(*CIS-675 Design and Analysis of Algorithms*)[https://github.com/radioxeth/cps-500-computer-organization-and-os-design]|
-|**Summer 2022**|(*CSE-644 Internet Security*)[https://github.com/radioxeth/cps-500-programming-and-data-structures]|
+|**Fall 2021**|[*CPS-500 Intro to Programming and Data Structures*](https://github.com/radioxeth/cse-644-internet-security)|
+|**Winter 2022**|[*CPS-500 Computer Organization and Operating System Design*](https://github.com/radioxeth/cis-675-algorithms)|
+|**Spring 2022**|[*CIS-675 Design and Analysis of Algorithms*](https://github.com/radioxeth/cps-500-computer-organization-and-os-design)|
+|**Summer 2022**|[*CSE-644 Internet Security*](https://github.com/radioxeth/cps-500-programming-and-data-structures)|
