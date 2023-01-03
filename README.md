@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @radioxeth (Dan)
-- 🧾 Check out my newsletter! https://djshannon.substack.com/
 - 👀 I’m interested in full-stack web development, decentralized web technologies, and cybersecurity.
 - 🌱 I'm currently learning about decentralized and p2p technologies. Additionally, I'm earning a Masters in Cybersecurity from Syracuse University.
 - 💞️ I’m looking to collaborate on decentralized web technologies.
@@ -13,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 |Cohort|Course|
 |---|---|
-|**Winter 2022**|*CIS-657 Principles of Operating Systems*|
+|**Winter 2023**|*[CIS-657 Principles of Operating Systems](https://github.com/radioxeth/cis-657-principles-of-operating-systems#cis-657-principles-of-operating-systems)*|
 |**Fall 2022**|[*CSE-643 Computer Security*](https://github.com/radioxeth/cse-643-computer-security/blob/main/README.md#cse-643-computer-security)|
 |**Summer 2022**|[*CSE-644 Internet Security*](https://github.com/radioxeth/cse-644-internet-security/blob/main/README.md#cse-644-internet-security)|
 |**Spring 2022**|[*CIS-675 Design and Analysis of Algorithms*](https://github.com/radioxeth/cis-675-algorithms)|
