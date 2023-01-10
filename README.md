@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radioxeth (Dan)
 - 👀 I’m interested in full-stack web development, decentralized web technologies, and cybersecurity.
-- 🌱 I'm currently learning about decentralized and p2p technologies. Additionally, I'm earning a Masters in Cybersecurity from Syracuse University.
+- 🌱 I'm currently learning about decentralized and p2p technologies. Additionally, I'm earning a Master's of Science in Cybersecurity from Syracuse University.
 - 💞️ I’m looking to collaborate on decentralized web technologies.
 - 📫 How to reach me ... radiox@nad27.net
 
