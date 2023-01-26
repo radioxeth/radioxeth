@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 |Cohort|Course|
 |---|---|
-|**Winter 2023**|*[CIS-657 Principles of Operating Systems]((https://github.com/radioxeth/cis-657-principles-of-operating-systems/blob/main/README.md#cis-657-principles-of-operating-systems))*|
+|**Winter 2023**|*[CIS-657 Principles of Operating Systems](https://github.com/radioxeth/cis-657-principles-of-operating-systems/blob/main/README.md#cis-657-principles-of-operating-systems)*|
 |**Fall 2022**|[*CSE-643 Computer Security*](https://github.com/radioxeth/cse-643-computer-security/blob/main/README.md#cse-643-computer-security)|
 |**Summer 2022**|[*CSE-644 Internet Security*](https://github.com/radioxeth/cse-644-internet-security/blob/main/README.md#cse-644-internet-security)|
 |**Spring 2022**|[*CIS-675 Design and Analysis of Algorithms*](https://github.com/radioxeth/cis-675-algorithms)|
