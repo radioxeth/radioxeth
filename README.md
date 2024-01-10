@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 |Cohort|Course|
 |---|---|
+|**Winter 2024**|*[CIS-663 Biometrics](https://github.com/radioxeth/cis-663-biometrics/blob/main/README.md#cis-663-biometrics)*|
 |**Fall 2023**|*[CIS-735 Machine Learning for Security](https://github.com/radioxeth/cis-735-machine-learning-for-security/blob/main/README.md#cis-735-machine-learning-for-security)*|
-|**Summer 2023**|*Leave of Absence*|
 |**Spring 2023**|*[CIS-628 Cryptography](https://github.com/radioxeth/cis-628-cryptography/blob/main/README.md#cis-628-cryptography)*|
 |**Winter 2023**|*[CIS-657 Principles of Operating Systems](https://github.com/radioxeth/cis-657-principles-of-operating-systems/blob/main/README.md#cis-657-principles-of-operating-systems)*|
 |**Fall 2022**|[*CSE-643 Computer Security*](https://github.com/radioxeth/cse-643-computer-security/blob/main/README.md#cse-643-computer-security)|
