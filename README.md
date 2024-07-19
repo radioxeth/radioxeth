@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 |Cohort|Course|
 |---|---|
+|**Summer 2024**|*[CIS-623 Assured Programming and Formal Methods](https://github.com/radioxeth/cis-623-assured-programming-and-formal-methods/blob/main/README.md#cis-623-assured-programming-and-formal-methods)*|
 |**Spring 2024**|*[CIS-600 Fundamental Data and Knowledge Mining](https://github.com/radioxeth/cis-600-fundamental-data-and-knowledge-mining?blob/main/README.md#cis-600-fundamental-data-and-knowledge-mining)*|
 |**Winter 2024**|*[CIS-663 Biometrics](https://github.com/radioxeth/cis-663-biometrics/blob/main/README.md#cis-663-biometrics)*|
 |**Fall 2023**|*[CIS-735 Machine Learning for Security](https://github.com/radioxeth/cis-735-machine-learning-for-security/blob/main/README.md#cis-735-machine-learning-for-security)*|
