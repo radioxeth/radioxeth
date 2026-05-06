@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radioxeth
 - 🫀 I love to build simple apps that do **one thing** well.
-- 🌐 I’m interested in decentralized technology and radio, amongst other earth and computer sciences.
+- 🌐 I’m interested in decentralized technology and radio, amongst other computer and earth sciences.
 - 🔏 M.S. in Cybersecurity
 - 🌎 B.S. in Geophysical Engineering
 - 📫 How to reach me ... radiox@nad27.net
