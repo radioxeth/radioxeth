@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @radioxeth (Dan)
+- 👋 Hi, I’m @radioxeth
 - 👀 I’m interested in full-stack web development, decentralized web technologies, and cybersecurity.
-- 🌱 M.S. in Cybersecurity from Syracuse University's College of Engineering and Computer Science.
+- 🔏 M.S. in Cybersecurity
+- 🌎 B.S. in Geophysical Engineering
 - 💞️ I’m looking to collaborate on decentralized web technologies.
 - 📫 How to reach me ... radiox@nad27.net
 
